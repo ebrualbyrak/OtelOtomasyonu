@@ -1,0 +1,13 @@
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Form1.resources
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.frmAnasayfa.resources
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+c:\users\yasin\documents\visual studio 2015\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+G:\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe.config
+G:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+G:\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
